@@ -17,11 +17,11 @@
   
 - Install and Usage of Deep learning frameworks: We recommend you to follow those steps for the first time of using this server:
     * Create your own virtualenv by using a command:
-        * virtualenv -p python3 your_directory_or_project
+        * *virtualenv -p python3 your_directory_or_project*
         
     * Then run your virtualenv by using a command:
-        * source your_directory_or_project_with_full_adress 
-        * example: source /home/blob/my_project/bin/activate
+        * _source your_directory_or_project_with_full_adress _
+        * example: _source /home/blob/my_project/bin/activate_
     * Install Tensorflow: Go to the folder */workspace/resouces/tensorflow* and run **one** of the following commands:
       * *pip3 install --upgrade tensorflow-1.7.0-cp35-cp35m-linux_x86_64.whl* (for tensorflow 1.7)
       * *pip3 install --upgrade tensorflow-1.8.0-cp35-cp35m-linux_x86_64.whl* (for tensorflow 1.8)
