@@ -14,7 +14,7 @@
 # Deep learning and Python
 - Python:  We only support python 3+ on this server. If you still want to use python 2+, let try on your own virtualenv.
   
-- Install and Usage: We recommend you to follow those steps for the first time of using this server:
+- Install and Usage of Deep learning frameworks: We recommend you to follow those steps for the first time of using this server:
     * Create your own virtualenv by using a command:
         * virtualenv -p python3 your_directory_or_project
         
@@ -27,6 +27,8 @@
     * Install Torch: Go to the folder */workspace/resouces/pytorch* and run the following commands:
       * *pip3 install torch-0.4.0-cp35-cp35m-linux_x86_64.whl*
       * *pip3 install torchvision*
-      
+ - For other frameworks: Feel free to install other frameworks such as Caffe, Keras, etc. on your own virtualenv. Ask @thuannm or @hien-v if you need help.
+ 
+ 
         
-
+Enjoy and take your experiments on this server. :heart:
