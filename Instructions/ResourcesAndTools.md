@@ -9,7 +9,7 @@
   P/s: the server is for computing purpose only. So we **CAN NOT RESCUE** your **DATA** in **any circumstances**. So please, **DO NOT STORE VALUABLE DATA** on **this server**. 
   
 - We also put some config files of vim, tmux in */workspace/resouces/utilities* 
-  You can use your own config files or simply put those config files and related folder in */workspace/resouces/utilities* into your home directory and then add `.` before those files and folder (for example: put the file vimrc in */workspace/resouces/utilities* into your home folder and then change the file *vimrc* to *.vimrc* )
+  You can use your own config files or simply put those config files and related folder in */workspace/resouces/utilities* into your home directory and then add `.` before those files and folder (for example: put the file *vimrc* in */workspace/resouces/utilities* into your home folder and then change the file *vimrc* to *.vimrc* )
 
 # Deep learning and Python
 - Python:  We only support python 3+ on this server. If you still want to use python 2+, let try on your own virtualenv.
