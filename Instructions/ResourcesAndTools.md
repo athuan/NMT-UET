@@ -24,8 +24,9 @@
     * Install Tensorflow: Go to the folder */workspace/resouces/tensorflow* and run **one** of the following commands:
       * *pip3 install --upgrade tensorflow-1.7.0-cp35-cp35m-linux_x86_64.whl* (for tensorflow 1.7)
       * *pip3 install --upgrade tensorflow-1.8.0-cp35-cp35m-linux_x86_64.whl* (for tensorflow 1.8)
-    * Install Torch: Go to the folder */workspace/resouces/pytorch* and run the following command:
+    * Install Torch: Go to the folder */workspace/resouces/pytorch* and run the following commands:
       * *pip3 install torch-0.4.0-cp35-cp35m-linux_x86_64.whl*
+      * *pip3 install torchvision*
       
         
 
