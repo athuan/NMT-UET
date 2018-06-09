@@ -6,7 +6,7 @@ Access the server via **_ssh_** connection to the address **nmtuet.ddns.net** wi
 
 In order to use this server, you should follow those instructions:
   - Request a permission for using this server
-  - Ask @thuannm or @hien-v for creating an account
+  - Ask [@thuannm](athuan255@gmail.com)  or [@hien-v](hienvuhuy@gmail.com) for creating an account
   - Give us your public rsa key
   
   
