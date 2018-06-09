@@ -1,4 +1,5 @@
-#Resources and Libraries
+
+  ##Resources and Libraries
 - Libraries:
   You can install your own libraries in your home (~) directory.
   
