@@ -12,7 +12,7 @@ In order to use this server, you should follow those instructions:
   
 ## Usages and Resources
 - Contact to @thuannm or @hien-v to install special libraries required root permission.
-- [Follow this instruction to set up the server](./Instructions/Resources_and_Tools.md)
+- [Follow this instruction to set up the server](./Instructions/ResourcesAndTools.md)
 
 
 
