@@ -10,6 +10,7 @@
   
 - We also put some config files of vim, tmux in */workspace/resouces/utilities* 
   You can use your own config files or simply put those config files and related folder in */workspace/resouces/utilities* into your home directory and then add `.` before those files and folder (for example: put the file *vimrc* in */workspace/resouces/utilities* into your home folder and then change the file *vimrc* to *.vimrc* )
+- We installed Open JDK as default Java. If you want to use Oracle Java, you can simply access */home/hien-v/programs/jdk-10.0.1* or add */home/hien-v/programs/jdk-10.0.1/bin* to your _PATH_ variable in *.bashrc*
 
 # Deep learning and Python
 - Python:  We only support python 3+ on this server. If you still want to use python 2+, let try on your own virtualenv.
