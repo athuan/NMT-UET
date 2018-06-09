@@ -28,7 +28,7 @@
     * Install Torch: Go to the folder */workspace/resouces/pytorch* and run the following commands:
       * *pip3 install torch-0.4.0-cp35-cp35m-linux_x86_64.whl*
       * *pip3 install torchvision*
- - For other frameworks: Feel free to install other frameworks such as Caffe, Keras, etc. on your own virtualenv. Ask @thuannm or @hien-v if you need help.
+ - For other frameworks: Feel free to install other frameworks such as Caffe, Keras, etc. on your own virtualenv. Ask [@thuannm](athuan255@gmail.com)  or [@hien-v](hienvuhuy@gmail.com) if you need help.
  
  
         
