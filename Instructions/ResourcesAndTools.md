@@ -14,6 +14,6 @@
   
 - Install and Usage:
   We recommend you to follow those steps for the first time of using this server:
-    +) Create your own virtualenv by using command:
-        virtualenv -p python3 your_directory_or_project
+    * Create your own virtualenv by using command:
+        * virtualenv -p python3 your_directory_or_project
 
