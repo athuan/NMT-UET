@@ -7,7 +7,7 @@ Access the server via **_ssh_** connection to the address **nmtuet.ddns.net** wi
 In order to use this server, you should follow those instructions:
   - Request a permission for using this server
   - Ask [@thuannm](athuan255@gmail.com)  or [@hien-v](hienvuhuy@gmail.com) for creating an account
-  - Give us your [public rsa keyhttps://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
+  - Give us your [public rsa key] https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
   
   
 ## Usages and Resources
