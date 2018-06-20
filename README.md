@@ -14,6 +14,8 @@ In order to use this server, you should follow those instructions:
 - Contact to @thuannm or @hien-v to install special libraries required root permission.
 - [Follow this instruction to set up the server](./Instructions/ResourcesAndTools.md)
 
+## Accessing the server from many computers 
+- You can use [this tutorial](I am writing, calm down) to login to server from many computers.
 
 Have fun! :heartpulse: 
 
