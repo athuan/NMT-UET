@@ -20,7 +20,7 @@
         * *virtualenv -p python3 your_directory_or_project*
         
     * Then run your virtualenv by using a command:
-        * _source your_directory_or_project_with_full_adress _
+        * *source your_directory_or_project_with_full_adress*
         * example: _source /home/blob/my_project/bin/activate_
     * Install Tensorflow: Go to the folder */workspace/resouces/tensorflow* and run **one** of the following commands:
       * *pip3 install --upgrade tensorflow-1.7.0-cp35-cp35m-linux_x86_64.whl* (for tensorflow 1.7)
