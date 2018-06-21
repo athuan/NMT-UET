@@ -18,7 +18,7 @@
 - Install and Usage of Deep learning frameworks: We recommend you to follow those steps for the first time of using this server:
     * Create your own virtualenv by using a command:
         * *virtualenv -p python3 your_directory_or_project*
-        
+        * Update June 21, 2018: You should create your virtualenv in separated folder to avoid making many folders in your workspace. For example, you can create the folder *environment* in *your home folder* . Then, you simply call *virtualenv -p python3 ~/environment*
     * Then run your virtualenv by using a command:
         * *source your_directory_or_project_with_full_adress*
         * example: _source /home/blob/my_project/bin/activate_
