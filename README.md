@@ -4,6 +4,9 @@ The Neural Machine Translation by University of Engineering and Technology
 ## Overview
 Access the server via **_ssh_** connection to the address **nmtuet.ddns.net** with the port **2222** from your home or workplace.
 
+**_Update (July 6th 2018)_**: We decided to use an alternative domain **nmtuet.ddnsfree.com** due to some restrictions of free ddns service. So from now, you are able to connect the server by using the new domain **nmtuet.ddnsfree.com**
+
+
 In order to use this server, you should follow those instructions:
   - Request a permission for using this server by emailing to Assoc. Prof Nguyen Phuong Thai (nguyenphuongthai \[at\] gmail \[dot\] com)
   - Ask [@thuannm](athuan255@gmail.com)  or [@hien-v](hienvuhuy@gmail.com) for creating an account
