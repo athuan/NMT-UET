@@ -20,7 +20,7 @@
         * *virtualenv -p python3 your_directory_or_project*
         * Update June 21, 2018: You should create your virtualenv in separated folder to avoid making many folders in your workspace. For example, you can create the folder *environment* in *your home folder* . Then, you simply call *virtualenv -p python3 ~/environment*
     * Then run your virtualenv by using a command:
-        * *source your_directory_or_project_with_full_adress/\ bin/activate*
+        * *source your_directory_or_project_with_full_adress/bin/activate*
         * example: _source /home/blob/my_project/bin/activate_
     * Install Tensorflow: Go to the folder */workspace/resouces/tensorflow* and run **one** of the following commands:
       * *pip3 install --upgrade tensorflow-1.7.0-cp35-cp35m-linux_x86_64.whl* (for tensorflow 1.7)
